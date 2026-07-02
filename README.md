@@ -2,13 +2,13 @@
 
 I'm a **Full-Stack Software Engineer & IT Systems Specialist** based in Nigeria with **6+ years** of full-stack development experience and **5+ years** in infrastructure & IT systems support. I specialize in **modern web applications**, **cloud architecture**, **system administration**, and **DevOps**.
 
-Currently, I run **[Pine Agency](https://pineagency.dev)**—a web development agency crafting high-performance applications and digital solutions for clients across Africa and beyond.
+Currently, I run **[Pine Digital Agency](https://pineagency.dev)**—a web development agency crafting high-performance applications and digital solutions for clients across Africa and beyond.
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robertorojas)
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertorojas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robertorojas.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvin-amaju)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-anonudo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kelvinanonudo.online)
 
 <br />
 
@@ -18,11 +18,11 @@ Currently, I run **[Pine Agency](https://pineagency.dev)**—a web development a
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[NexWork](https://nexwork.app)** | AI-powered job discovery platform with real-time job search via Gemini, resume upload & AI extraction, and mobile-first design. Production-grade application with performance optimizations. | `Next.js` `Gemini API` `React` `TypeScript` |
+| **[Jobuddy-ai](https://jobuddy-ai.vercel.app)** | AI-powered job discovery platform with real-time job search via Gemini, resume upload & AI extraction, and mobile-first design. Production-grade application with performance optimizations. | `Next.js` `Gemini API` `React` `TypeScript` |
 | **[OPay Expense Tracker](https://opay-tracker.dev)** | Fintech-focused expense tracking dashboard with multi-format file import (CSV, Excel, PDF), interactive charts, and browser-based architecture. | `Next.js` `Recharts` `TypeScript` `localStorage` |
 | **[Scholr EdTech Platform](https://scholr.io)** | Full-featured tutoring marketplace with admin, tutor, and student portals; messaging, Google Meet integration, booking system, and analytics dashboards. | `PHP` `MySQL` `Laravel` `Chart.js` `Responsive Design` |
 | **[Pine Agency Projects](https://pineagency.dev)** | Marketing websites, branded deliverables, and production client applications showcasing modern design systems and full-stack solutions. | `React` `Next.js` `Tailwind` `GSAP` `Alpine.js` |
-| **[Recess](https://recess.app)** | Personal project demonstrating end-to-end product development. | `React` `Node.js` `PostgreSQL` |
+| **[Recess](https://recess.umber.vercel.app)** | Personal project demonstrating end-to-end product development. | `React` `Node.js` `PostgreSQL` |
 
 ---
 
@@ -31,7 +31,7 @@ Currently, I run **[Pine Agency](https://pineagency.dev)**—a web development a
 ### **Full-Stack Development**
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 * **Frontend:** React, Next.js, Tailwind CSS, Alpine.js, modern responsive design, performance optimization.
-* **Backend:** Node.js, Laravel, PHP, REST APIs, real-time integrations (Gemini, Google Meet, Firebase).
+* **Backend:** Node.js, Laravel, PHP, REST APIs, real-time integrations (Gemini, Claude, OpenAi Google Meet, Firebase).
 * **Databases:** PostgreSQL, MySQL, MongoDB, Firestore.
 
 ### **Cloud & DevOps**
