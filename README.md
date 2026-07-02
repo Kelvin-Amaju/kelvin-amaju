@@ -22,7 +22,8 @@ Currently, I run **[Pine Digital Agency](https://pineagency.dev)**—a web devel
 | **[OPay Expense Tracker](https://opay-tracker.dev)** | Fintech-focused expense tracking dashboard with multi-format file import (CSV, Excel, PDF), interactive charts, and browser-based architecture. | `Next.js` `Recharts` `TypeScript` `localStorage` |
 | **[Scholr EdTech Platform](https://scholr.io)** | Full-featured tutoring marketplace with admin, tutor, and student portals; messaging, Google Meet integration, booking system, and analytics dashboards. | `PHP` `MySQL` `Laravel` `Chart.js` `Responsive Design` |
 | **[Pine Agency Projects](https://pineagency.dev)** | Marketing websites, branded deliverables, and production client applications showcasing modern design systems and full-stack solutions. | `React` `Next.js` `Tailwind` `GSAP` `Alpine.js` |
-| **[Recess](https://recess.umber.vercel.app)** | Personal project demonstrating end-to-end product development. | `React` `Node.js` `PostgreSQL` |
+| **[Recess](https://recess-umber.vercel.app/)** | Recess is a premium, interactive web application designed to bring excitement and engagement back into the classroom through educational games. Built with a modern aesthetic and real-time multiplayer capabilities, Recess allows students to compete or practice in various subjects while teachers facilitate a dynamic learning environment. | `React` `Node.js` `PostgreSQL` |
+| **[Locomotiv](https://locomotiv-mu.vercel.app/)** | Modern Next.js application designed to help users find detailed vehicle specifications and plan road trips with precision. By combining real-time vehicle data with smart trip analysis, it answers the critical question: *"Is this car suitable for my journey?"*. | `Nextjs` `Gemini API` `Typescript` |
 
 ---
 
