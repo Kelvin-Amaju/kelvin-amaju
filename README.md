@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Full-Stack Software Engineer & IT Systems Specialist** based in Nigeria with **6+ years** of full-stack development experience and **5+ years** in infrastructure & IT systems support. I specialize in **modern web applications**, **cloud architecture**, **system administration**, and **DevOps**.
+I'm a **Full-Stack Software Engineer & IT Systems Specialist** based in Nigeria with **6+ years** of full-stack development experience and **6+ years** in infrastructure & IT systems support. I specialize in **modern web applications**, **cloud architecture**, **system administration**, and **DevOps**.
 
 <br />
 
