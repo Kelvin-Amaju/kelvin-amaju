@@ -2,8 +2,6 @@
 
 I'm a **Full-Stack Software Engineer & IT Systems Specialist** based in Nigeria with **6+ years** of full-stack development experience and **5+ years** in infrastructure & IT systems support. I specialize in **modern web applications**, **cloud architecture**, **system administration**, and **DevOps**.
 
-Currently, I run **[Pine Digital Agency](https://pineagency.dev)**—a web development agency crafting high-performance applications and digital solutions for clients across Africa and beyond.
-
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvin-amaju)
